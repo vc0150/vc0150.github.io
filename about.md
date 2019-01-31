@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: Vince (Qijun) Chen
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Working as a Quantitative Analyst at TrimTabs Asset Management, I am interested in leveraging both fundamental analysis and statistical modeling techniques for alpha capture research and quantamental trading system design.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:chenqijunvc@gmail.com)
