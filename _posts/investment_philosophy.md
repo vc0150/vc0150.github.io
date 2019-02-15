@@ -3,9 +3,9 @@ layout: post
 title: My Investment Philosophy (with different vehicles)
 ---
 
-# Investment Objective: Long-term capital appreciation
+#### Investment Objective: Long-term capital appreciation
 
-# Investment Vehicle: Equity Portfolio (Long Only)
+#### Investment Vehicle: Equity Portfolio (Long Only)
 
 I believe a systematic implementation in seeking high-quality company with the following characteristic will reward investor in the long-term.
 
