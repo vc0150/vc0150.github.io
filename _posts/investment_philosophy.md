@@ -21,8 +21,8 @@ Quantitative Measurement:
 - Strong and Improved Profit Margin
 - Low Moment Risk on Stock Return
 
-### Investment Objective 2: Current Income
-#### Investment Vehicle: Buywrite on Dividend-Focus Equity Portfolio
-
-### Investment Objective 3: Capital Presevation
+### Investment Objective 2: Capital Presevation
 #### Investment Vehicle: Equity Portfolio (Long-Only)
+
+### Investment Objective 3: Current Income
+#### Investment Vehicle: Buywrite on Dividend-Focus Equity Portfolio
