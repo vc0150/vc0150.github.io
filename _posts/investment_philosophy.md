@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Investment Philosophy (with different vehicles)
+title: My Investment Philosophy
 ---
 
 ### Investment Objective 1: Long-term capital appreciation
