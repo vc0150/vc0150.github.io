@@ -9,17 +9,17 @@ title: My Investment Philosophy
 I believe a systematic implementation in seeking high-quality companies with the following characteristic will reward investors in the long-term.
 
 Qualitative Measurement:
-- Expanding Market Positioning
-- Strong Brand Recognitioning
-- Sustainable Competitive Advantage
+- Strong brand recognition
+- Sustainable competitive advantage
+- Growing revenue shares
 
 Quantitative Measurement:
-- Strong Current Profitability
-- Sustainable Profiatbility
-- Low/Moderate Comparable Valuation Metrics
-- Solid Balance Sheet
-- Strong and Improved Profit Margin
-- Low Moment Risk on Stock Return
+- Strong current profitability
+- Sustainable profitability that persists into the future
+- Moderate comparable valuation metrics
+- Solid balance sheet with sufficient cash position
+- Strong and improving profit margin
+- Low moment risk on stock return
 
 ### Investment Objective 2: Capital Presevation
 #### Investment Vehicle: Equity Portfolio (Long-Only)
