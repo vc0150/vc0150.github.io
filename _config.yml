@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: QVC Systematic Investing
+name: Systematic Investing Ideas
 
 # Short bio or description (displayed in the header)
 description: Vince(Qijun)Chen, Quantitative Researcher
@@ -20,9 +20,9 @@ footer-links:
   email: chenqijunvc@gmail.com
   facebook:
   flickr:
-  github: 
+  github: https://github.com/vc0150
   instagram:
-  linkedin: www.linkedin.com/in/vinceqijunchen
+  linkedin: http://www.linkedin.com/in/vinceqijunchen
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
