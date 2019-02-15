@@ -7,7 +7,7 @@ permalink: /about/
 
 ### The Blog
 
-Quantamental Investor is an investment blog about my personal research on global macro and factor investing, and my systematic investment strategies.
+Quantamental Investor is an investment blog about my personal research on global macro, factor investing and machine learning in finance.
 
 ### The Author
 
