@@ -13,7 +13,7 @@ Quantamental Investor is an investment blog about my personal research on global
 
 Vince (Qijun) Chen, Quantitative Researcher
 
-Working as a Quantitative Analyst at TrimTabs Asset Management, I am interested in leveraging both fundamental analysis and statistical modeling techniques for alpha capture research and quantamental trading system design.
+Working as a Quantitative Analyst at TrimTabs Asset Management, I am interested in leveraging data science, equity valuation and computer programming for alpha capture research and systematic equity portfolio management.
 
 ### Contact
 
