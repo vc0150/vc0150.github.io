@@ -3,26 +3,36 @@ layout: post
 title: My Investment Philosophy
 ---
 
-### Investment Objective 1: Long-term capital appreciation
-#### Investment Vehicle 1: Equity Portfolio (Long Only)
+This post summarizes my principle investment philosophy on building a systematic core equity position for long-term capital appreciation. In the future I will write more details about the implementation and document relevant research for different approach.
 
-I believe a systematic implementation in seeking high-quality companies with the following characteristic will reward investors in the long-term.
+### Core Equity Position Portfolio Construction
+#### Investment Objective: Long-term capital appreciation
+#### Investment Vehicle: Equity Portfolio (Long Only)
+
+I believe a systematic implementation in seeking high-quality companies will reward investors in the long-term. Start with a bottom up approach, my goal is to build a all-season equity portfolio with strong and consistent alpha generation against the broad market index, except for recovery stage of the market when all the "value" (junk) stocks tend to outperform. With top down analysis, I seek better performance with active asset allocation decision (applying leverage or asset rotation).
+
+##### Bottom up approach:
+
+The bottom up security selection process is the foudation of building the core equity portfolio. In order to build a core position, we need to identify high quality names regardless of the business conditions. The following measurements either in qualitative or quantitative are the keys in my security selection process.
 
 Qualitative Measurement:
 - Strong brand recognition
 - Sustainable competitive advantage
-- Growing revenue shares
 
 Quantitative Measurement:
 - Strong current profitability
 - Sustainable profitability that persists into the future
 - Moderate comparable valuation metrics
-- Solid balance sheet with sufficient cash position
+- Solid balance sheet
 - Strong and improving profit margin
 - Low moment risk on stock return
 
-### Investment Objective 2: Capital Presevation
-#### Investment Vehicle: Equity Portfolio (Long-Only)
+##### Top down approach:
 
-### Investment Objective 3: Current Income
-#### Investment Vehicle: Buywrite on Dividend-Focus Equity Portfolio
+While bottom up security is the foundation of my investment process, the economics condition is the foundation to market return in the long run (normally the economics indicator are lagging, however, as my mentor Mr. Ted Theodore said: you don't have to be in recession for a bear market, but in every recession you have a bear market). Furthermore, active asset allocation decision in country and sector can be better achieved with top down analysis.
+
+- Economics Forecasts
+- Leading Economics Indicator Analysis
+- Credit Analysis
+- Foreign Exchange Rate
+- Industry Growth Prosepcts
