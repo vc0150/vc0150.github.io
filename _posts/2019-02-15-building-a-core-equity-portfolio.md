@@ -5,8 +5,8 @@ title: Building a Core Equity Portfolio
 
 This post summarizes my understanding of the principle investment strategy on building a core equity position for long-term capital appreciation. In the future I will write more details about the systematic implementations and document relevant research.
 
-#### Investment Objective: Long-term capital appreciation
-#### Investment Vehicle: Equity Portfolio (Long Only)
+##### Investment Objective: Long-term capital appreciation
+##### Investment Vehicle: Equity Portfolio (Long Only)
 
 I believe a systematic implementation in seeking high-quality companies will reward investors in the long-term. Start with a bottom up approach, my goal is to build a all-season equity portfolio with strong and consistent alpha generation against the broad market index, except for recovery stage of the market when all the "value" (junk) stocks tend to outperform. With top down analysis, I seek better performance with active asset allocation decision (applying leverage or asset rotation).
 
