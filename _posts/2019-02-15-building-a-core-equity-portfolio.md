@@ -28,7 +28,7 @@ Quantitative Measurement:
 
 ##### Top down approach:
 
-While bottom up security is the foundation of my investment process, the economics condition is the foundation to market return in the long run (normally the economics indicator are lagging, however, as my mentor Mr. Ted Theodore said: you don't have to be in recession for a bear market, but in every recession you have a bear market). Furthermore, active asset allocation decision in country and sector can be better achieved with top down analysis.
+While bottom up security is the foundation of my investment process, the economics condition is the foundation to market return in the long run (normally the economics indicator are lagging, however, as my mentor Mr. Ted Theodore said: Not every bear market comes with recession, but every bear market comes with a bear market). Furthermore, active asset allocation decision in country and sector can be better achieved with top down analysis.
 
 - Economics Forecasts
 - Leading Economics Indicator Analysis
