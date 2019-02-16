@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Core Equity/Investment Summary
+title: Building a Core Equity Position
 ---
 
 This post summarizes my understanding of principle investment strategy on building a systematic core equity position for long-term capital appreciation. In the future I will write more details about the implementation and document relevant research for different approach.
