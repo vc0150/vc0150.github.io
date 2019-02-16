@@ -3,7 +3,7 @@ layout: post
 title: Building a Core Equity Portfolio
 ---
 
-This post summarizes my understanding of principle investment strategy on building a systematic core equity position for long-term capital appreciation. In the future I will write more details about the implementation and document relevant research for different approach.
+This post summarizes my understanding of the principle investment strategy on building a core equity position for long-term capital appreciation. In the future I will write more details about the systematic implementations and document relevant research.
 
 #### Investment Objective: Long-term capital appreciation
 #### Investment Vehicle: Equity Portfolio (Long Only)
