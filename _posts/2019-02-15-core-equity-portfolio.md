@@ -1,11 +1,10 @@
 ---
 layout: post
-title: My Investment Philosophy
+title: Core Equity Strategy
 ---
 
-This post summarizes my principle investment philosophy on building a systematic core equity position for long-term capital appreciation. In the future I will write more details about the implementation and document relevant research for different approach.
+This post summarizes my principle investment strategy on building a systematic core equity position for long-term capital appreciation. In the future I will write more details about the implementation and document relevant research for different approach.
 
-### Core Equity Position Portfolio Construction
 #### Investment Objective: Long-term capital appreciation
 #### Investment Vehicle: Equity Portfolio (Long Only)
 
