@@ -40,7 +40,7 @@ Quantitative Measurement:
   - Volatility (Covariance, beta)
   - Skewness (Coskewness)
   - Kurtosis
- - Avoid Long-lasting Negative Investor Sentiment
+- Avoid Long-lasting Negative Investor Sentiment
   - Stock News Sentiment
 
 ##### Top-down approach:
