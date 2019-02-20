@@ -23,4 +23,5 @@ Working as a Quantitative Analyst at TrimTabs Asset Management, I am interested 
 
 ### Contact
 
-[Contact the author](mailto:chenqijunvc@gmail.com)
+[Contact the author 
+联系博主](mailto:chenqijunvc@gmail.com)
