@@ -24,8 +24,8 @@ Quantitative Measurement:
 - Strong current profitability
   - Cash flow return on investment and trend
 - Sustainable profitability that persists into the future
-  - Earning with low accruals
-  - Earning Variability
+  - Earnings with low accruals
+  - Earnings Variability
 - Moderate comparable valuation metrics
   - EBITDA/Enterprise Value
   - Free cash flow yields
@@ -45,7 +45,7 @@ Quantitative Measurement:
 
 ##### Top-down approach:
 
-While bottom-up security is the foundation of my investment process, the economic condition is the foundation of market return in the long run (normally the economics indicator is lagging, however, as my mentor Mr. Ted Theodore said: Not every bear market comes with recession, but every bear market comes with a bear market). Furthermore, active asset allocation decision in country and sector can be better achieved with top-down analysis.
+While bottom-up security analysis is the foundation of my investment process, the economic condition is the foundation of market return in the long run (normally the economics indicator is lagging, however, as my mentor Mr. Ted Theodore said: Not every bear market comes with recession, but every bear market comes with a bear market). Furthermore, active asset allocation decision in country and sector can be better achieved with top-down analysis.
 
 - Economics Forecasts
 - Leading Economics Indicator Analysis
