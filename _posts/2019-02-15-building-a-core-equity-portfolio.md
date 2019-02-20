@@ -103,7 +103,7 @@ While bottom-up security analysis is the foundation of my investment process, th
 - 经济预测
 - 领先的经济指标分析
 - 信用分析
-- 汇率
+- 汇率分析
 - 行业增长前景
 - 股权基金流动
 
