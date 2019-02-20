@@ -54,7 +54,6 @@ While bottom-up security analysis is the foundation of my investment process, th
 - Industry Growth Prospects
 - Equity Fund Flow
 
-### 中文版（谷歌机器翻译）
 ### 建立核心股权投资组合
 
 这篇文章总结了我对建立长期资本增值核心股权的主要投资策略的理解。将来，我将编写更多关于系统实现的细节并记录相关研究。
