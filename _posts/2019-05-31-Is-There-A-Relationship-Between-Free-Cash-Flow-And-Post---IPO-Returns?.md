@@ -3,7 +3,7 @@ layout: post
 title: Is There A Relationship Between Free Cash Flow And Post-IPO Returns?
 ---
 
-This article is jointly written with my mentor Mr. Ted Theodore, and is also published in the [Financial Advisor Magazine](https://www.fa-mag.com/news/is-there-a-relationship-between-free cash flow-and-post-ipo-returns-45197.html).
+This article is jointly written with my mentor Mr. Ted Theodore, and is also published in the [Financial Advisor Magazine](https://www.fa-mag.com/news/is-there-a-relationship-between-free-cash-flow-and-post-ipo-returns-45197.html).
 
 With the recent initial public offerings of Lyft, Pinterest and Uber, many investors have found themselves asking “should I invest?” One of the major concerns when a company goes public is whether they have a clear path to profitability. Sometimes that path can appear cloudy because they may be subject to significant fluctuations in response to numerous factors including lack of liquidity, market volatility and other factors unrelated to the operating performance of the issuer. But instead of guessing, we believe there might be a better way for investors to approach IPOs.
 
