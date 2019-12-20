@@ -15,6 +15,8 @@ With the recent flurry of IPO activity, we decided to look at all IPOs with a ma
 
 First, we looked at the relationship between the stock return after the IPO and a company’s free-cash-flow generation. Free-cash-flow generation is defined as the annual free cash flow in the latest fiscal year report. The average performance of IPOs with positive free-cash-flow generation outperformed those without by 1.08%, 3.37%, 10.07% and 15.67% in the next one-, three-, six- and twelve-month periods.
 
+![_config.yml]({{ site.baseurl }}/images/IPO1 Scale.svg)
+
 Next, we looked at whether the trend of free cash flow has an impact on post-IPO stock returns. We defined free-cash-flow trend as the general direction (positive or negative) in which a company’s free cash flow is developing or changing. The average performance of IPOs with positive free cash flow trend outperformed those without by 1.08%, 3.37%, 10.07% and 15.67% in the next one-, three-, six- and twelve-month periods.
 
 Lastly, we combined these two methods and got a more complete look at a company’s free-cash-flow conditions.
