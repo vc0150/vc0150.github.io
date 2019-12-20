@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Country ETFs Rotation Strategy
+title: Tactical Country Asset Rotation Strategy
 ---
 
 The research is inspired by my first project at TrimTabs, to implement a Tactical Asset Allocation model based on the paper my mentor Mr. Ted Theodore jointly wrote and published in the Journal of Investment Management: [What is Value in an Equity Market](https://www.joim.com/what-is-value-in-an-equity-market/)
