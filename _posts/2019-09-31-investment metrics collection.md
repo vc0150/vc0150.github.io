@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Investment Metrics Collection
+title: Investment Performance Evaluation
 ---
 
-This post collects investment metrics I have learned over the year and I organize the metrics based on the framework presented by Marc Odo at Swan Global Investment: [New Risk Metrics for a New World](https://www.swanglobalinvestments.com/advisor/wp-content/uploads/2018/06/white-paper-new-risk-metrics-for-a-new-world-swan-global-investments.pdf). And a link to this Jupyter Notebook shows the implementations with Python.
+This post collects investment metrics I have learned over the years which I used to evaluate investment strategies. A link to this Jupyter Notebook shows the implementations with Python with NumPy and Pandas.
 
 ### Volatility Risk
 
@@ -15,12 +15,48 @@ The compounding characteristic of investment returns implies volatility as a sou
 
 - Sharpe Ratio
 
-- Sorti
-
-
+- Sortino Ratio
 
 ### Benchmark Risk
 
+- Excess Return
+
+- Batting Average
+
+- Up Capture
+
+- Down Capture
+
+- Alpha
+
+- Beta
+
+- R-squared
+
+- Tracking Error
+
+- Treynor Ratio
+
+- Information Ratio
+
+- M-squared
+
 ### Capital Preservation Risk
 
+- Maximum Drawdown
+
+- Pain Ratio (Pain Index)
+
+- Calmar Ratio
+
 ### Tail Risk
+
+- Skewness
+
+- Kurtosis
+
+- Omega
+
+- VaR
+
+- CVaR
