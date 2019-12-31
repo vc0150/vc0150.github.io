@@ -9,8 +9,14 @@ This post collects investment metrics I have learned over the year and I organiz
 
 The compounding characteristic of investment returns implies volatility as a source of risk due to the calculation of geometric average. With the same arithemetic average, investment performances with lower volatility reward investor the more. In the meantime, the consistency of return also reduces the risk of market timing.
 
+-- Standard Deviation
+
 - Benchmark Risk
 
+
+
 - Capital Preservation Risk
+
+
 
 - Tail Risk
