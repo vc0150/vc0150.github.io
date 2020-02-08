@@ -28,20 +28,16 @@ Once a strategy is deployed, it follows a cursus honorum, which entails the foll
 In general, it is preferable to release new variations of a strategy and run them in parallel with old versions. Each version will go through the above lifecycle, and old strategies will receive smaller allocations as a matter of diversification, while taking into account the degree of confidence derived from their longer track record.
 
 ### Common Pitfalls in Financial Machine Learning
-1. The Sisyphus paradigm - Epistemological
-
+##### 1. The Sisyphus paradigm - Epistemological
 **Solution: The meta-strategy paradigm**
 
 2. Research through backtesting - Epistemological
-
 **Solution: Feature importance analysis**
 
 3. Chronological sampling - Data Processing
-
 **Solution: The volume clock**
 
 4. Integer differentiation - Data Processing
-
 **Solution: Fractional differentiiation**
 
 5. Fixed-time horizon labeling - Classification
