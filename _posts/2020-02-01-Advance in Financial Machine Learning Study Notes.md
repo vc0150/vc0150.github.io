@@ -29,22 +29,42 @@ In general, it is preferable to release new variations of a strategy and run the
 
 ### Common Pitfalls in Financial Machine Learning
 1. The Sisyphus paradigm - Epistemological
+
 **Solution: The meta-strategy paradigm**
+
 2. Research through backtesting - Epistemological
+
 **Solution: Feature importance analysis**
+
 3. Chronological sampling - Data Processing
+
 **Solution: The volume clock**
+
 4. Integer differentiation - Data Processing
+
 **Solution: Fractional differentiiation**
+
 5. Fixed-time horizon labeling - Classification
+
 **Solution: The triple-barrier method**
+
 6. Learning side and size simultaneously - Classification
+
 **Solution: Meta-labeling**
+
 7. Weighting of non-IID samples - Classification
+
 **Solution: Uniqueness weighting: sequential bootstrapping**
+
 8. Cross-validation leakage - Evaluation
+
 **Solution: Purging and embargoing**
+
 9. Walk-forward (historical) backtesting - Evaluation
+
 **Solution: Combinatorical purged cross-validation**
+
 10. Backtest overfitting - Evaluation
+
 **Solution: Backtesting on synthetic data: the deflated Sharpe ratio**
+
