@@ -3,7 +3,7 @@ layout: post
 title: Advances in Financial Machine Learning Study Notes
 ---
 
-My study notes for the book written by Marcos Lopez de Prado, Advances in Financial Machine Learning. This post is just for personal study purpose, not for any commercial use. If you are interested in the content please [purchase the book](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089).
+My study notes for the book written by Marcos Lopez de Prado, Advances in Financial Machine Learning. This post is just for personal study purpose, not for any commercial uses. If you are interested in the contents please [purchase the book](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089).
 
 ### Structure of Modern Quantitative Asset Managers
 
@@ -20,9 +20,21 @@ This station assesses the profitability of an investment strategy under various 
 The deployment team is tasked with integrating the strategy code into the production line. Some components may be reused by multiple strategies, especially when they share common features. Team members are algorithm specialists and hardcore mathematical programmers. Part of their job is to ensure that the deployed solution is logically identical to the prototype they received. It is also the deployment team’s responsibility to optimize the implementation sufficiently, such that production latency is minimized. As production calculations often are time sensitive, this team will rely heavily on process schedulers, automation servers (Jenkins), vectorization, multithreading, multiprocessing, graphics processing unit (GPU-NVIDIA), distributed computin (Hadoop), high-performance computing (Slurm), and parallel computing techniques in general.
 - ##### Portfolio Oversight
 Once a strategy is deployed, it follows a cursus honorum, which entails the following stages or lifecycle:
-1. Embargo: Initially, the strategy is run on data observed after the end date of the backtest. Such a period may have been reserved by the backtesters, or it may be the result of implementation delays. If embargoed performance is consistent with backtest results, the strategy is promoted to the next stage.
-2. Paper Trading: At this point, the strategy is run on a live, real-time feed. In this way, performance will account for data parsing latencies, calculation latencies, execution delays, and other time lapses between observation and positioning. Paper trading will take place for as long as it is needed to gather enough evidence that the strategy performs as expected.
-3. Graduation: At this stage, the strategy manages a real position, whether in isolation or as part of an ensemble. Performance is evaluated precisely, including attributed risk, returns, and costs.
-4. Re-allocation: Based on the production performance, the allocation to graduated strategies is re-assessed frequently and automatically in the context of a diversified portfolio. In general, a strategy’s allocation follows a concave function. The initial allocation (at graduation) is small. As time passes, and the strategy performs as expected, the allocation is increased. Over time, performance decays, and allocations become gradually smaller.
-5. Decommission: Eventually, all strategies are discontinued. This happens when they perform below expectations for a sufficiently extended period of time to conclude that the supporting theory is no longer backed by empirical evidence.
+1. **Embargo:** Initially, the strategy is run on data observed after the end date of the backtest. Such a period may have been reserved by the backtesters, or it may be the result of implementation delays. If embargoed performance is consistent with backtest results, the strategy is promoted to the next stage.
+2. **Paper Trading:** At this point, the strategy is run on a live, real-time feed. In this way, performance will account for data parsing latencies, calculation latencies, execution delays, and other time lapses between observation and positioning. Paper trading will take place for as long as it is needed to gather enough evidence that the strategy performs as expected.
+3. **Graduation:** At this stage, the strategy manages a real position, whether in isolation or as part of an ensemble. Performance is evaluated precisely, including attributed risk, returns, and costs.
+4. **Re-allocation:** Based on the production performance, the allocation to graduated strategies is re-assessed frequently and automatically in the context of a diversified portfolio. In general, a strategy’s allocation follows a concave function. The initial allocation (at graduation) is small. As time passes, and the strategy performs as expected, the allocation is increased. Over time, performance decays, and allocations become gradually smaller.
+5. **Decommission:** Eventually, all strategies are discontinued. This happens when they perform below expectations for a sufficiently extended period of time to conclude that the supporting theory is no longer backed by empirical evidence.
 In general, it is preferable to release new variations of a strategy and run them in parallel with old versions. Each version will go through the above lifecycle, and old strategies will receive smaller allocations as a matter of diversification, while taking into account the degree of confidence derived from their longer track record.
+
+### Common Pitfalls in Financial Machine Learning
+##### The Sisyphus paradigm - Epistemological
+**Solution: The meta-strategy paradigm**
+##### Research through backtesting - Epistemological
+**Solution: Feature importance analysis**
+##### Chronological sampling
+**Solution: The volume clock**
+##### Integer differentiation
+**Solution: Fractional differentiiation**
+##### Fixed-time horizon labeling
+
