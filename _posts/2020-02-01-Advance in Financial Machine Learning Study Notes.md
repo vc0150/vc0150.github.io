@@ -7,9 +7,9 @@ My study notes for the book written by Marcos Lopez de Prado, Advances in Financ
 
 #### Structure of Modern Quantitative Asset Managers
 
-##### Data Curators
+- ##### Data Curators
 This is the station responsible for collecting, cleaning, indexing, storing, adjusting, and delivering all data to the production chain.
-##### Feature Analysts
+- ##### Feature Analysts
 This is the station responsible for transforming raw data into informative signals. These informative signals have some predictive power over financial variables. Team members are experts in information theory, signal extraction and processing, visualization, labeling, weighting, classifiers, and feature importance techniques.
 ##### Strategists
 In this station, informative features are transformed into actual investment algorithms. A strategist will parse through the libraries of features looking for ideas to develop an investment strategy. These features were discovered by different analysts studying a wide range of instruments and asset classes. The goal of the strategist is to make sense of all these observations and to formulate a general theory that explains them.
