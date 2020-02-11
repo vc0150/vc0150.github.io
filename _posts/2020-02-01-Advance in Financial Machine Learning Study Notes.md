@@ -41,7 +41,8 @@ In general, it is preferable to release new variations of a strategy and run the
 **Solution: Fractional differentiiation**
 
 #### 5. Fixed-time horizon labeling - Classification
-Label return series using fixed time horizon, why not? 1. time bars do not exhibit good statistical properties. 2. the same threshold for assigning class applied regardless of the observed volatility.
+Label price series/time bars using fixed time horizon, why not? 1. time bars do not exhibit good statistical properties. 2. the same threshold for assigning class applied regardless of the observed volatility.
+
 Naive solution: compute dynamic thresholds based on exponentially weighted moving standard deviation.
 **Solution: The triple-barrier method**
 
