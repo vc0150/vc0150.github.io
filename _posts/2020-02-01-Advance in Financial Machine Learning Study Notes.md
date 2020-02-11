@@ -41,10 +41,16 @@ In general, it is preferable to release new variations of a strategy and run the
 **Solution: Fractional differentiiation**
 
 #### 5. Fixed-time horizon labeling - Classification
-Label price series/time bars using fixed time horizon, why not? 1. time bars do not exhibit good statistical properties. 2. the same threshold for assigning class applied regardless of the observed volatility.
+Label price series/time bars using fixed time horizon, why not? 1. time bars do not exhibit good statistical properties. 2. the same threshold for assigning class applied regardless of the observed volatility. 
+Intermediate solution: compute dynamic thresholds based on exponentially weighted moving standard deviation.
 
-Naive solution: compute dynamic thresholds based on exponentially weighted moving standard deviation.
 **Solution: The triple-barrier method**
+
+First set two horizontal barries defined by profit-taking and stop-loss limits, which are a dynamic function of estimated volatility. The third barrier is defined in terms of number of bars elapsed since the position was taken. 
+
+- Touch Higher bar: 1
+- Touch Lower bar: -1
+- Touch Vertical bar: realized gain/loss or 0
 
 #### 6. Learning side and size simultaneously - Classification
 **Solution: Meta-labeling**
