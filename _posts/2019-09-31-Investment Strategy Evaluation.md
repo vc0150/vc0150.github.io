@@ -62,7 +62,7 @@ Time-Weighted Rate of Return
 ### Attribution
  - Barra's multi-factor
 
-### Risk Metrics
+### Risk Metric
 - Volatility Risk
  - Standard Deviation
  - Downside Deviation
