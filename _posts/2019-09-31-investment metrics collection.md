@@ -40,82 +40,53 @@ Time-Weighted Rate of Return
   - 95-percentile DD
   - 95-percentile TuW
  
- ### Implementation Shortfall
+### Implementation Shortfall
  - Broker fees per turnover
  - Average slippage per tunrover
  - Dollar performance per turnover
  - Return on execution costs
  
- ### Efficiency
+### Efficiency
  - Sharpe Ratio
  - Probabilistic Sharpe Ratio
  - Deflated Sharpe Ratio
  - Information Ratio
  
- ### Classification Score
+### Classification Score
  - Accuracy
  - Precison
  - Recall
  - F1 Score
  - Negative log-loss
  
- ### Attribution
+### Attribution
  - Barra's multi-factor
 
-
-
-### Volatility Risk
-
-The compounding characteristic of investment returns implies volatility as a source of risk due to the calculation of geometric average. With the same arithemetic average, investment performances with lower volatility reward investor the more. In the meantime, the consistency of return also reduces the risk of market timing.
-
-- Standard Deviation
-
-- Downside Deviation
-
-- Sharpe Ratio
-
-- Sortino Ratio
-
-### Benchmark Risk
-
-- Excess Return
-
-- Batting Average
-
-- Up Capture
-
-- Down Capture
-
-- Alpha
-
-- Beta
-
-- R-squared
-
-- Tracking Error
-
-- Treynor Ratio
-
-- Information Ratio
-
-- M-squared
-
-### Capital Preservation Risk
-
-- Maximum Drawdown
-
-- Pain Ratio (Pain Index)
-
-- Calmar Ratio
-
-### Tail Risk
-
-- Skewness
-
-- Kurtosis
-
-- Omega
-
-- VaR
-
-- CVaR
+### Risk Metrics
+- Volatility Risk
+ - Standard Deviation
+ - Downside Deviation
+ - Sharpe Ratio
+ - Sortino Ratio
+- Benchmark Risk
+  - Excess Return
+  - Batting Average
+  - Up Capture
+  - Down Capture
+  - Alpha
+  - Beta
+  - R-squared
+  - Tracking Error
+  - Treynor Ratio
+  - Information Ratio
+  - M-squared
+- Capital Preservation Risk
+  - Maximum Drawdown
+  - Pain Ratio (Pain Index)
+  - Calmar Ratio
+- Tail Risk
+  - Skewness
+  - Kurtosis
+  - Omega
+  - VaR
+  - CVaR
