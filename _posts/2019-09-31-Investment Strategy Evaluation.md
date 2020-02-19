@@ -32,8 +32,8 @@ Time-Weighted Rate of Return
   - High hit ratio
   - No fat tail
   - Bets are not concentrated in time
- - Drawdown and Time under Water
- - Runs Statistics for Performance Evaluation
+- Drawdown and Time under Water
+- Runs Statistics for Performance Evaluation
   - HHI index on positive returns
   - HHI index on negative returns
   - HHI index on time between bets
