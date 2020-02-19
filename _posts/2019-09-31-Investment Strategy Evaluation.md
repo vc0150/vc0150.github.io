@@ -64,10 +64,10 @@ Time-Weighted Rate of Return
 
 ### Risk Metric
 - Volatility Risk
- - Standard Deviation
- - Downside Deviation
- - Sharpe Ratio
- - Sortino Ratio
+  - Standard Deviation
+  - Downside Deviation
+  - Sharpe Ratio
+  - Sortino Ratio
 - Benchmark Risk
   - Excess Return
   - Batting Average
