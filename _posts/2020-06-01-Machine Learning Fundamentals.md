@@ -3,23 +3,6 @@ layout: post
 title: Machine Learning Fundamentals
 ---
 
-### Linear Regression
-
-### Logistics Regression
-
-### Gradient Descent
-
-### Stochastic Gradient Descent
-
-### Decision Tree
-
-### Esemable Learning
-#### Boosting
-#### Adaboost
-
-#### Bagging
-#### Random Forest
-
 ### Bias-Variance Tradeoff
 
 #### **Definition**
@@ -50,3 +33,6 @@ Err(xₒ) = E[(Y − g(xₒ))² | X = xₒ]
 
 = σ² + Var(g) + Bias(g)²
 
+#### Overfit & Underfit
+Low Bias High Variance -> Overfit
+High Bias -> Underfit
