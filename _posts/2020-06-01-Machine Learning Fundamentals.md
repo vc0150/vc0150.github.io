@@ -3,7 +3,24 @@ layout: post
 title: Machine Learning Fundamentals
 ---
 
-### Bias Variance Tradeoff
+### Linear Regression
+
+### Logistics Regression
+
+### Gradient Descent
+
+### Stochastic Gradient Descent
+
+### Decision Tree
+
+### Esemable Learning
+#### Boosting
+#### Adaboost
+
+#### Bagging
+#### Random Forest
+
+### Bias-Variance Tradeoff
 
 #### **Definition**
 Total Error = Bias² + Variance + Irreducible errors
