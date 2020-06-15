@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning Fundamentals
+title: Bias-Variance Tradeoff
 ---
 
 ### Bias-Variance Tradeoff
@@ -8,11 +8,11 @@ title: Machine Learning Fundamentals
 #### **Definition**
 Total Error = Bias² + Variance + Irreducible errors
 
-**Bias** of an estimator is the the “expected” difference between its estimates and the true values in the data.
+**Bias** of an estimator is the the “expected” difference between its estimates and the true values in the data. (High Bias -> Overfitting)
 
 Bias[g(xₒ)] = E[g(xₒ)] − f(xₒ)
 
-**Variance** of an estimator is the “expected” value of the squared difference between the estimate of a model and the “expected” value of the estimate(over all the models in the estimator).
+**Variance** of an estimator is the “expected” value of the squared difference between the estimate of a model and the “expected” value of the estimate(over all the models in the estimator). (High Variance -> Underfitting)
 
 Var[g(xₒ)] = E[(g(xₒ) − E[g(xₒ)])²]
 
@@ -33,6 +33,3 @@ Err(xₒ) = E[(Y − g(xₒ))² | X = xₒ]
 
 = σ² + Var(g) + Bias(g)²
 
-#### Overfit & Underfit
-Low Bias High Variance -> Overfit
-High Bias -> Underfit
