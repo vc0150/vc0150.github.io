@@ -64,6 +64,9 @@ First set two horizontal barries defined by profit-taking and stop-loss limits, 
 
 #### 8. Cross-validation leakage - Evaluation
 **Solution: Purging and embargoing**
+**Purging** involves dropping from the train set any sample whose evaluation time is posterior to the earliest prediction time in the validation set. This ensures that predictions on the validation set are free of look-ahead bias.
+
+**Embargoing**: If a train sample prediction time falls into the embargo period, we simply drop the sample from the train set. The required embargo period has to be estimated from the problem and dataset at hand.
 
 #### 9. Walk-forward (historical) backtesting - Evaluation
 **Solution: Combinatorical purged cross-validation**
