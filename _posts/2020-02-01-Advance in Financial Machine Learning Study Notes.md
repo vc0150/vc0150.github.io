@@ -33,10 +33,9 @@ In general, it is preferable to release new variations of a strategy and run the
 
 #### 2. Research through backtesting - Epistemological
 **Solution: Feature importance analysis**
-1. P-Values
-2. Feature Importance
-3. Probability-Weighted Accuracy
-4. Substitution Effects
+1. Mean Decreased Impurity (Gini Importance)
+2. Mean Decreased Accuracy (Permutation Importance)
+3. Single Feature Importance
 
 #### 3. Chronological sampling - Data Processing
 **Solution: The volume clock**
